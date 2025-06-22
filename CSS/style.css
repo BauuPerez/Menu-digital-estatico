@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #21538d;
+  color: white;
+}
+
+header {
+  padding: 30px 10px;
+  background-color: #1b3f6b;
+}
+
+h1 {
+  font-size: 3em;
+  font-family: fantasy;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+  font-family: fantasy;
+  margin-top: 0;
+  text-align: center;
+}
+
+
+.plato {
+  display: inline-block;
+  width: 260px;
+  background-color: #2a5b92;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 10px;
+  vertical-align: top;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.plato h3 {
+  font-size: 1.2em;
+text-align: center;
+}
+
+.plato img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.descripcion {
+  font-size: 0.95em;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.precio {
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.categoria {
+  background-color: #1f4e83;
+  padding: 40px 10px;
+  text-align: center;
+}
+
+.categoria h2 {
+  font-size: 2em;
+  font-family: fantasy;
+  margin-bottom: 30px;
+  color: white;
+}
+
